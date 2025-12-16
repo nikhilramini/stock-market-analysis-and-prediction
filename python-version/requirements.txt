@@ -1,0 +1,13 @@
+# 📁 `python-version/requirements.txt`
+
+**Path:**  
+`stock-market-analysis-and-prediction/python-version/requirements.txt`
+
+```txt
+numpy
+pandas
+scikit-learn
+nltk
+matplotlib
+requests
+beautifulsoup4
