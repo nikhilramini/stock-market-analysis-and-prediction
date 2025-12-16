@@ -1,0 +1,24 @@
+application.title=Stock_Market_Predection
+build.classes.dir=build/web/WEB-INF/classes
+build.classes.excludes=**/*.java,**/*.form
+build.dir=build
+build.generated.dir=build/generated
+build.generated.sources.dir=build/generated-sources
+build.test.classes.dir=build/test/classes
+build.test.results.dir=build/test/results
+build.web.dir=build/web
+dist.dir=dist
+dist.jar=${dist.dir}/Stock_Market_Predection.jar
+dist.javadoc.dir=${dist.dir}/javadoc
+dist.war=Stock_Market_Predection.war
+j2ee.platform.classpath=${libs.MySQLDriver.classpath}
+javac.classpath=\
+    ${j2ee.platform.classpath}
+javac.test.classpath=\
+    ${javac.classpath}:\
+    ${build.classes.dir}
+jspc.params=
+libs.MySQLDriver.classpath=lib/mysql-connector-java-5.1.23-bin.jar
+src.dir=src
+test.src.dir=test
+webinf.dir=web/WEB-INF
